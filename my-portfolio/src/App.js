@@ -4,7 +4,7 @@ function App() {
 <div className="page">
 <div className="container">
 <div className="lpart">
-<img className="profile" src="/image.jpg" alt="Profile" />
+<img className="profile" src="/Image.jpg" alt="Profile" />
 </div>
 <div className="rpart">
 <div className="name">Cadence Jael Alviar</div>
