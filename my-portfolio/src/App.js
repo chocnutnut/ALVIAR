@@ -7,7 +7,7 @@ function App() {
 <img className="profile" src="/image.jpg" alt="Profile" />
 </div>
 <div className="rpart">
-<div className="name">Cadence Jael</div>
+<div className="name">Cadence Jael Alviar</div>
 <div className="university">National University MOA</div>
 <div className="desc">
            I'm a student of National University MOA who loves to play games, cats, ANDDDDD heavy on liking anything spider-man related.
